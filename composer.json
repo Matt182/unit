@@ -1,0 +1,15 @@
+{
+    "name": "matt/unit",
+    "authors": [
+        {
+            "name": "matt182",
+            "email": "mattspring0@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "unit\\": ""
+        }
+    }
+}
